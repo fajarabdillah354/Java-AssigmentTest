@@ -1,0 +1,20 @@
+package spring.assigment.dto;
+
+import lombok.Data;
+
+@Data
+public class UserDto {
+
+    private Long id;
+    private String name;
+    private String mobile;
+    private String address;
+
+
+
+
+
+
+
+
+}

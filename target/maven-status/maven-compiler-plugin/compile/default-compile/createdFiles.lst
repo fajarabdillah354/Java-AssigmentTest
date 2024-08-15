@@ -1,0 +1,15 @@
+spring\assigment\dto\LoginRequest.class
+spring\assigment\service\UserService.class
+spring\assigment\controller\AuthController.class
+spring\assigment\security\JwtAuthenticationFilter.class
+spring\assigment\security\UserPrincipal.class
+spring\assigment\controller\UserController.class
+spring\assigment\service\AuthService.class
+spring\assigment\security\JwtAuthenticationResponse.class
+spring\assigment\dto\UserDto.class
+spring\assigment\service\CustomUserDetailsService.class
+spring\assigment\config\SecurityConfig.class
+spring\assigment\model\User.class
+spring\assigment\DemoApplication.class
+spring\assigment\security\JwtTokenProvider.class
+spring\assigment\repository\UserRepository.class
