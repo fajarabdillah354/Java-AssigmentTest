@@ -7,6 +7,7 @@
   <groupId>spring.assigment</groupId>
   <artifactId>java-spring-question</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>war</packaging>
 
   <name>java-spring-question</name>
   <!-- FIXME change it to the project's website -->
